@@ -1,0 +1,2 @@
+class PoshelNahiuException(Exception):
+    pass
