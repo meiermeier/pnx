@@ -4,4 +4,8 @@ Exception type. For cases where the user exhibits an unusually high level of int
 
 Usage:
 
-`raise PoshelNahiuException()`
+```python
+from pnx import PoshelNahiuException
+
+raise PoshelNahiuException()
+```
